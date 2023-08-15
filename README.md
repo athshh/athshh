@@ -1,7 +1,7 @@
 - hello there i am @athshh
 - i like programming
 - as of now i dont collabrate
-- other interests include music and excersise
+- other interests include music and simulation games
 - have fun solider
 
 <!---
