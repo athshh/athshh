@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athshh" alt="athshh" /></a> </p>
 
-- 🔭 I’m currently working on [NewMUN Website](https://github.com/athshh/newmun_main)
+- 🔭 I’m currently working on [my portfolio webpage](https://github.com/athshh/portfolio)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Nothing at the moment**
+- 👯 I’m looking to collaborate on **nothing at the moment**
 
-- 🤝 I’m looking for help with [Any optimization on the NewMUN website](https://github.com/athshh/newmun_main)
+- 🤝 I’m looking for help with **also nothing**
 
 - 💬 Ask me about **python, linux, android**
 
-- 📫 How to reach me **athibans@proton.me**
+- 📫 How to reach me **athibansharon2008@gmail.com**
 
-- ⚡ Fun fact **I like music**
+- ⚡ Fun fact **i like music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
